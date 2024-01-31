@@ -116,7 +116,7 @@ var buses=[
   }
   function amar(){
     var count=0;
-    var data="<img src='./pictures/amaravathi.jpg' class='i1'>";
+    var data="<img src='amaravathi.jpg' class='i1'>";
     data=data+"<table>"+"<tr>"+"<th>"+"S.NO"+"</th>"+"<th>"+"SER.NO"+"</th>"+ "<th>"+"TRAVELS NAME"+
     "</th>"+"<th>"+"FROM"+"</th>"+"<th>"+"TO"+"</th>"+"<th>"+"ARRIVAL DATE"+"</th>"+"<th>"
     +"DEPATURE DATE"+"</th>"+"<th>"+"PRICE"+"</th>"+"<th>"+"AC/NON AC"+"</th>"+"<th>"+"NO OF SEATS"
@@ -137,7 +137,7 @@ var buses=[
   }
   function sup(){
     var count=0;
-    var data="<img src='./pictures/super.png' height='80%' width='80%' class='i1'>";
+    var data="<img src='super.png' height='80%' width='80%' class='i1'>";
     data=data+"<table>"+"<tr>"+"<th>"+"S.NO"+"</th>"+"<th>"+"SER.NO"+"</th>"+ "<th>"+"TRAVELS NAME"+
     "</th>"+"<th>"+"FROM"+"</th>"+"<th>"+"TO"+"</th>"+"<th>"+"ARRIVAL DATE"+"</th>"+"<th>"
     +"DEPATURE DATE"+"</th>"+"<th>"+"PRICE"+"</th>"+"<th>"+"AC/NON AC"+"</th>"+"<th>"+"NO OF SEATS"
@@ -158,7 +158,7 @@ var buses=[
   }
   function vol(){
     var count=0;
-    var data="<img src='./pictures/volvo.jpg' height='80%' width='80%' class='i1'>";
+    var data="<img src='volvo.jpg' height='80%' width='80%' class='i1'>";
     data=data+"<table>"+"<tr>"+"<th>"+"S.NO"+"</th>"+"<th>"+"SER.NO"+"</th>"+ "<th>"+"TRAVELS NAME"+
     "</th>"+"<th>"+"FROM"+"</th>"+"<th>"+"TO"+"</th>"+"<th>"+"ARRIVAL DATE"+"</th>"+"<th>"
     +"DEPATURE DATE"+"</th>"+"<th>"+"PRICE"+"</th>"+"<th>"+"AC/NON AC"+"</th>"+"<th>"+"NO OF SEATS"
@@ -179,7 +179,7 @@ var buses=[
   }
   function ind(){
     var count=0;
-    var data="<img src='./pictures/indra.jpg' height='80%' width='80%' class='i1'>";
+    var data="<img src='indra.jpg' height='80%' width='80%' class='i1'>";
     data=data+"<table>"+"<tr>"+"<th>"+"S.NO"+"</th>"+"<th>"+"SER.NO"+"</th>"+ "<th>"+"TRAVELS NAME"+
     "</th>"+"<th>"+"FROM"+"</th>"+"<th>"+"TO"+"</th>"+"<th>"+"ARRIVAL DATE"+"</th>"+"<th>"
     +"DEPATURE DATE"+"</th>"+"<th>"+"PRICE"+"</th>"+"<th>"+"AC/NON AC"+"</th>"+"<th>"+"NO OF SEATS"
